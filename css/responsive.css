@@ -1,0 +1,442 @@
+
+/* @media (min-width: 320px) and (max-width: 480px) */
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .header {
+        padding-left: 20px;
+    }  
+.nav-bar {display: none;}
+ .burger  {
+        display: block;
+        color: white;
+        margin-left: 100px;
+}
+
+.logo img {
+    width: 150px;
+}
+.header-language {
+    display: none;
+}
+.header-language {
+    display: none;
+}
+
+.header-contact-us {
+    display: none;
+}
+
+.text-design {
+    display: none;
+}
+.section1-text-content h2 {
+    font-size: 1rem; 
+}
+
+.section1-title-span {
+    font-size: 16px;
+}
+
+.section1-text-content p:not(.section1-project-paragraph) {
+font-size: 15px;
+}
+
+.section1-project-paragraph {
+    font-size: 15px;
+}
+
+.section1-services {
+    max-width: 200px;
+    height: 30px;
+}
+
+.section1-project {
+    max-width: 180px;
+    height: 30px;
+}
+.section1-text-content h2 {
+    margin-bottom:12px;
+}
+.section2-menu {
+    flex-direction: column;
+}
+
+
+.section1-buttons {
+    margin-top: 20px;
+}
+.section2-menu h2 {
+    font-size: 40px;
+}
+.section2-ul {
+    justify-content: space-evenly;
+    row-gap: 10px;
+}
+
+.section2-image-block {
+    flex-direction: column;
+    align-items: center;
+}
+
+.section4-title h2 {
+    font-size: 30px;
+} 
+
+.section4-title {
+    margin-bottom: 50px;}
+
+.form-and-contact {
+    flex-direction: column;
+    align-items: center;
+}
+
+.name-and-email, 
+.phone-and-service {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.input-element,
+.select-element {
+    max-width: 90%;
+}
+.button-box {
+    margin-bottom: 50px;
+}
+
+.contact-info {
+    max-width: 963px;
+    width: 90%;
+}
+
+.contact-us-button {
+    max-width: 963px;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.footer-box1 {
+    flex-direction: column;
+    gap: 50px;
+}
+
+.footer-wraper {
+    padding-left: 50px;
+}
+.footer-box2 {
+    flex-wrap: wrap;
+    
+}
+.subscription {
+    flex-direction: column;
+}
+.about-us {
+    width: 300px;
+
+}
+}
+
+/* @media (min-width: 481px) and (max-width: 768px) */
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .header {
+        padding-left: 50px;
+    }  
+    .header-language {
+        display: none;
+    }
+    .nav-bar {display: none;}
+    .burger  {
+        display: block;
+        color: white;
+        margin-left: 100px;
+}
+
+.header-language {
+    display: none;
+}
+
+.header-language {
+    display: none;
+}
+
+.header-contact-us {
+    display: none;
+}
+
+.section1-text-content h2 {
+    font-size: 1rem; 
+}
+
+.section1-title-span {
+    font-size: 16px;
+}
+
+.section1-text-content p:not(.section1-project-paragraph) {
+font-size: 15px;
+}
+
+.section1-project-paragraph {
+    font-size: 15px;
+}
+
+.section1-services {
+    max-width: 200px;
+    height: 30px;
+}
+
+.section1-project {
+    max-width: 180px;
+    height: 30px;
+}
+.section1-text-content h2 {
+    margin-bottom:12px;
+}
+.section2-menu {
+    flex-direction: column;
+}
+
+
+.section1-buttons {
+    margin-top: 20px;
+}
+.section2-menu h2 {
+    font-size: 50px;
+}
+.section2-ul {
+    justify-content: space-evenly;
+    row-gap: 10px;
+}
+
+.section2-image-block {
+    flex-direction: column;
+    align-items: center;
+}
+
+.section4-title h2 {
+    font-size: 40px;
+} 
+.form-and-contact {
+    flex-direction: column;
+    align-items: center;
+}
+
+.name-and-email, 
+.phone-and-service {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+
+.input-element,
+.select-element {
+    max-width: 90%;
+}
+.button-box {
+    margin-bottom: 50px;
+}
+
+.contact-info {
+    max-width: 963px;
+    width: 90%;
+}
+
+.contact-us-button {
+    max-width: 963px;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.footer-box1 {
+    flex-direction: column;
+    gap: 50px;
+}
+
+.footer-wraper {
+    padding-left: 50px;
+}
+.footer-box2 {
+    flex-wrap: wrap;
+    
+}
+.subscription {
+    flex-direction: column;
+}
+}
+
+/* @media (min-width: 769px) and (max-width: 1024px) */
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    
+    .nav-bar {display: none;}
+    .burger  {
+        display: block;
+        color: white;
+        margin-left: 100px;
+}
+.header-contact-us {
+    display: none;
+}
+.header-language {
+    display: none;
+}
+
+.section1-text-content h2 {
+    font-size: 2rem; 
+}
+
+.section1-title-span {
+    font-size: 32px;
+}
+
+.section1-text-content p:not(.section1-project-paragraph) {
+    font-size: 15px;
+}
+
+.section1-services {
+    max-width: 200px;
+    height: 30px;
+}
+
+.section1-project {
+    max-width: 180px;
+    height: 30px;
+}
+
+.section2-menu {
+    flex-direction: column;
+}
+
+.section2-ul {
+    justify-content: space-evenly;
+    row-gap: 10px;
+}
+
+.section2-image-block {
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.form-and-contact {
+    flex-direction: column;
+    align-items: center;
+}
+
+.name-and-email, 
+.phone-and-service {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+
+.input-element,
+.select-element {
+    max-width: 90%;
+}
+.button-box {
+    margin-bottom: 50px;
+}
+
+.contact-info {
+    max-width: 963px;
+    width: 90%;
+}
+
+.contact-us-button {
+    max-width: 963px;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.footer-box1 {
+    flex-direction: column;
+    gap: 50px;
+}
+
+.footer-wraper {
+    padding-left: 50px;
+}
+.footer-box2 {
+    flex-wrap: wrap;
+    
+}
+}
+
+/* (min-width: 1025px) and (max-width: 1200px) */
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+    .nav-bar {display: none;}
+    .burger  {
+        display: block;
+        color: white;
+        margin-left: 100px;
+}
+.header-language {
+    display: none;
+}
+
+.section2-menu {
+    flex-direction: column;
+}
+
+.section2-ul {
+    justify-content: space-evenly;
+    row-gap: 10px;
+}
+.form-and-contact {
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.button-box {
+    margin-bottom: 50px;
+}
+
+.contact-info {
+    max-width: 963px;
+    width: 90%;
+}
+
+.contact-us-button {
+    max-width: 963px;
+    width: 100%;
+    margin-left: 80px;
+}
+
+.footer-box1 {
+    flex-direction: column;
+    gap: 50px;
+
+}
+.footer-box2 {
+    flex-direction: column;
+flex-wrap: wrap;
+}
+
+}
+
+/* @media (min-width: 1201px) and (max-width: 1500px)  */
+
+@media (min-width: 1201px) and (max-width: 1500px) {
+
+.header  {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.header-ul {
+    padding-left: 50px;
+}
+.footer-box1 {
+    flex-direction: column;
+    gap: 50px;
+}
+}
+
+
+
